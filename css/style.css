@@ -32,6 +32,7 @@ body {
   height: 100%;
   font-family: "Josefin Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
+  cursor: url("../img/cute.png") , auto;
 }
 
 h1,
@@ -2173,3 +2174,4 @@ ol {
     padding: 30px 40px 35px 35px;
   }
 }
+
